@@ -12,6 +12,8 @@
 
 ## https://github.com/insaneoops288/Bible/blob/main/InternationalBible.md
 
+## https://github.com/insaneoops288/Bible/blob/main/WordOfGod.md
+
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church04.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church05.jpg" >
